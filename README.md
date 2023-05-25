@@ -1,2 +1,1 @@
-# PrepCourse
-Este es u repositorio de prueba del modulo 2 del prep course
+alfredo este es u pruecto de prueba de como crear u repositorio e github
